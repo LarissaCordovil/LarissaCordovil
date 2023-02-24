@@ -1,6 +1,6 @@
-  # ## Oi! Eu sou a Larissa Cordovil  
-- 🔭 Trabalhando com Full Stack             
--   🌱  Estudando  Javascript 
+  Larissa Cordovil 
+- 🔭 Trabalhando com Full Stack            
+- 🌱  Estudando  Node JS
 - 😄 Pronomes: ela/dela         
 
 
